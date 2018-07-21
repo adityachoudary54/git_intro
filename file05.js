@@ -1,1 +1,4 @@
-console.log("reverting back to vim");
+function greet(name){
+    console.log("Hello "+name)
+}
+greet('Adi')
